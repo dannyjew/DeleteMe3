@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Hello, I am adding text.
-Booooo
-=======
-Hello, I am adding text
 Hello Again
->>>>>>> a612fab8163aa271c2421ca608711e63badca7c3
