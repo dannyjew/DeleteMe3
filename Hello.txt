@@ -1,2 +1,2 @@
-Hello, I am adding text
+Hello, I am adding text.
 Hello Again
